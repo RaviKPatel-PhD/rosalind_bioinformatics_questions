@@ -12,3 +12,6 @@ if __name__ == "__main__":
         example = text_file.read().strip()
     print(countNuc(example))
     print(countNuc2(example))
+
+# Expected Answer:
+# 224 232 259 232
